@@ -26,4 +26,4 @@ Machine learning based breast cancer prediction system using Python and Scikit-l
 
 ## GOAL
 
-- To improve prediction reliability using machine learning techniques.
+To improve prediction reliability using machine learning techniques.
